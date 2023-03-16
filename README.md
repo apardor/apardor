@@ -32,7 +32,7 @@ I am a Full Stack Developer from Colombia.
 
 - :seedling: I enjoy diving in into new stacks and design/photography trends and software.
 
-- :zap: In my free time, I like to run marathons
+- :zap: In my free time I like to run marathons
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apardor/)
 
